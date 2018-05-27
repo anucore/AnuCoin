@@ -1,4 +1,4 @@
-![Coin-Logo](https://cdn.discordapp.com/attachments/449921869227884544/450241898142105610/anucoinlogo.png
+![Coin-Logo](https://cdn.discordapp.com/attachments/449921869227884544/450241898142105610/anucoinlogo.png)
 # AnuCoin Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a AnuCoin Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
