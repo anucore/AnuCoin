@@ -199,6 +199,8 @@ Click "Ok"
 * Check the status of your masternode within the VPS by using the command below:
 
 `AnuCoind masternode status`
+
+
 `AnuCoind getinfo`
 
 *You should see ***status 9***
