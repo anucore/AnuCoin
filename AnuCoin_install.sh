@@ -7,7 +7,7 @@ COIN_DAEMON='AnuCoind'
 COIN_CLI='AnuCoind'
 COIN_PATH='/usr/local/bin/'
 COIN_REPO='https://github.com/anucore/anucore.git'
-COIN_TGZ='https://github.com/Realbityoda/AnuCoin/releases/download/1.0.1/AnuCoin.tar.gz'
+COIN_TGZ='https://github.com/anucore/AnuCoinMnsetup/releases/download/1.0.2/AnuCoind.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 SENTINEL_REPO='N/A'
 COIN_NAME='AnuCoin'
@@ -146,8 +146,10 @@ masternodeprivkey=$COINKEY
 
 #Addnodes
 
-addnode=35.189.10.54:36963
-addnode=35.185.179.22:36963
+addnode=90.188.254.149:36963
+addnode=107.174.133.144:36963
+addnode=202.182.107.127:36963
+addnode=159.89.110.156:36963
 
 EOF
 }
